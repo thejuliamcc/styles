@@ -1,0 +1,73 @@
+/* STYLES */
+
+body {
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: normal;
+    background:olivedrab;
+    cursor: cell;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+/* TITLE */
+   color:rgb(255, 255, 255);
+   font-size: 66px; 
+   font-weight: 400;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: end;
+   font-style: italic;
+   text-transform: uppercase;
+   padding: 24px;
+   border-style: solid;
+
+   /* leading */
+   line-height: 45px;
+
+   /* tracking */
+   letter-spacing: 15px;
+}
+
+h2 {
+/* SEMINAL BOOKLET */
+    color: rgba(255, 255, 255, 0.513);
+    font-size: 16pt;
+}
+
+h3 {
+/* 2 HEADINGS */
+    color:rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+h4 {
+/* 7 CONTRASTS */       
+    color:rgba(255, 255, 255, 0.513);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 14px;
+    border-style: solid;
+}
+
+p {
+    margin-bottom: 28px;
+    text-indent: 16px;
+}
+
+main {
+    max-width: 700px;
+    margin-left: 250pt;
+    margin-right: auto;
+    margin-top: 25vh;
+    margin-bottom: 300px;
+    
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    background: yellow; 
+    padding: 16px; */
+}
